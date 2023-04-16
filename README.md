@@ -22,7 +22,7 @@ The list of all js libraries you can check:
 All you need is just open F12 Chrome or Firefox Console
 1)And insert the code.
 
-![Image of Console](https://wploader.com/other/github_images/console-detect-js-framework.png)
+![Image of Console](https://i.stack.imgur.com/t9Z2E.png)
 
 2)Hit Enter.
 
